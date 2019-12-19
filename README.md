@@ -2,7 +2,7 @@
 A full-stack compatibility-based Friend Finder application 
 ![Friend Finder](https://github.com/commandergavdog/FriendFinder/blob/master/app/public/img/FFSC.PNG)
 
-#Technologies used
+# Technologies used
 Node.js
 Express makes routing easy. 
 body-parser gives us JSON format so data is easy to manipulate.
