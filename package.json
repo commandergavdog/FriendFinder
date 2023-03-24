@@ -3,7 +3,7 @@
   "version": "1.0",
   "description": "Friend Finder",
   "engines": {
-    "node": "8.9.1"
+    "node": "16.6.1"
   },
   "main": "server.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "ejs": "^2.5.6",
+    "ejs": "^3.1.9",
     "express": "^4.15.2"
   },
   "devDependencies": {
